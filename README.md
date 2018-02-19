@@ -1,3 +1,5 @@
+# Custom colormaps for SUMA
+
 Custom .niml.cmap colormaps were created for SUMA based on the snazzier 
 (i.e., perceptually uniform, colorblind-friendly) colormaps in 
 matplotlib and cmocean.
